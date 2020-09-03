@@ -1,6 +1,6 @@
 # nowapps_sqllite
 
-A new Flutter app with SQLite database connection. App contains two different screens and some bottom sheets.
+A new Flutter app with SQLite database connection. App contains two different screens and some of the bottom sheets.
   1) Launching screen.
   2) Home screen shows the form.
   3) Bottom sheets. 
